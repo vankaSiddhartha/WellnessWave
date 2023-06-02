@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WellnessWave</string>
+    <string name="splash_screen_text">Wellness Wave</string>
+    <string name="home">Home</string>
+    <string name="pears">Pears</string>
+    <string name="random_friend">Random Friend</string>
+    <string name="settings">Settings</string>
+</resources>
