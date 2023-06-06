@@ -1,4 +1,4 @@
-package com.vanka.wellnesswave.ui.communites
+package com.vanka.wellnesswave.ui.communities
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

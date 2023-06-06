@@ -12,6 +12,9 @@
         android:theme="@style/Theme.WellnessWave"
         tools:targetApi="31">
         <activity
+            android:name=".ui.auth.AuthContainerActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.SplashhScreen"
             android:exported="false" />
         <activity

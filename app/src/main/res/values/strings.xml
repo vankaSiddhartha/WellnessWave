@@ -5,4 +5,13 @@
     <string name="pears">Pears</string>
     <string name="random_friend">Random Friend</string>
     <string name="settings">Settings</string>
+    <string name="in_head">Welcome to Wellness Wave! 🌊🌟</string>
+    <string name="in_t1">Friends: Instant stress relief, anytime. 🗣️💙</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_am_18_years_or_above">I am 18 years or above</string>
+    <string name="by_accepting_i_agree_tnc_amp_privacy_policy"><![CDATA[By accepting, I agree TnC & Privacy Policy]]></string>
+    <string name="anonymous_login">Anonymous login</string>
+    <string name="loading">loading</string>
 </resources>

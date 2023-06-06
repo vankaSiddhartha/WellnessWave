@@ -5,15 +5,15 @@
     android:title="@string/home"
     android:icon="@drawable/baseline_home_24"/>
     <item
-        android:id="@+id/pears"
+        android:id="@+id/Chats"
         android:title="@string/pears"
         android:icon="@drawable/baseline_star_24"/>
     <item
-        android:id="@+id/random_friend"
+        android:id="@+id/Community"
         android:title="@string/random_friend"
         android:icon="@drawable/baseline_emoji_emotions_24"/>
     <item
-        android:id="@+id/settings"
+        android:id="@+id/Experts"
         android:title="@string/settings"
         android:icon="@drawable/baseline_settings_24"/>
 </menu>
